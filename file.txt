@@ -1,9 +1,0 @@
-Eu sou o gato gregorio
-vingador dos 7 mares
-adorador de churu
-e comer de pinguinas
-
-BUFFER_SIZER = 3
-
-gnl -> 1 linha || Eu sou o gato gregorio
-static variable -> Eu sou o gato gregorio\nvingador dos 7 mares\nadorador de churu\ne comedor de pinguinas'\0'
